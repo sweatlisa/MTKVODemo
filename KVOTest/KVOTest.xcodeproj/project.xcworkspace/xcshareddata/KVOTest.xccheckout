@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>63567DC1-6A5D-437D-8556-8200011826AD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KVOTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DF02C1B3-64BC-41D6-BD28-7E15499E820B</key>
+		<string>ssh://github.com/sweatlisa/MTKVODemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KVOTest/KVOTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DF02C1B3-64BC-41D6-BD28-7E15499E820B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/sweatlisa/MTKVODemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DF02C1B3-64BC-41D6-BD28-7E15499E820B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DF02C1B3-64BC-41D6-BD28-7E15499E820B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MTKVODemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
