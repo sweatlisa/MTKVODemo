@@ -10,6 +10,13 @@
 		1459B2F6196AAE390014FD37 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1459B2F5196AAE390014FD37 /* Foundation.framework */; };
 		1459B2F9196AAE390014FD37 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1459B2F8196AAE390014FD37 /* main.m */; };
 		1459B2FD196AAE390014FD37 /* KVOTest.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1459B2FC196AAE390014FD37 /* KVOTest.1 */; };
+		1459B30B196AAFCD0014FD37 /* Fool.m in Sources */ = {isa = PBXBuildFile; fileRef = 1459B304196AAFCD0014FD37 /* Fool.m */; };
+		1459B30C196AAFCD0014FD37 /* Observer.m in Sources */ = {isa = PBXBuildFile; fileRef = 1459B306196AAFCD0014FD37 /* Observer.m */; };
+		1459B30D196AAFCD0014FD37 /* Target.m in Sources */ = {isa = PBXBuildFile; fileRef = 1459B308196AAFCD0014FD37 /* Target.m */; };
+		1459B30E196AAFCD0014FD37 /* TargetWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 1459B30A196AAFCD0014FD37 /* TargetWrapper.m */; };
+		1459B311196AC18B0014FD37 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 1459B310196AC18B0014FD37 /* Person.m */; };
+		1459B315196AC1C80014FD37 /* BankAccount.m in Sources */ = {isa = PBXBuildFile; fileRef = 1459B314196AC1C80014FD37 /* BankAccount.m */; };
+		1459B319196AC3FB0014FD37 /* PlayList.m in Sources */ = {isa = PBXBuildFile; fileRef = 1459B318196AC3FB0014FD37 /* PlayList.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +38,20 @@
 		1459B2F8196AAE390014FD37 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1459B2FB196AAE390014FD37 /* KVOTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KVOTest-Prefix.pch"; sourceTree = "<group>"; };
 		1459B2FC196AAE390014FD37 /* KVOTest.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = KVOTest.1; sourceTree = "<group>"; };
+		1459B303196AAFCD0014FD37 /* Fool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fool.h; sourceTree = "<group>"; };
+		1459B304196AAFCD0014FD37 /* Fool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fool.m; sourceTree = "<group>"; };
+		1459B305196AAFCD0014FD37 /* Observer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Observer.h; sourceTree = "<group>"; };
+		1459B306196AAFCD0014FD37 /* Observer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Observer.m; sourceTree = "<group>"; };
+		1459B307196AAFCD0014FD37 /* Target.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Target.h; sourceTree = "<group>"; };
+		1459B308196AAFCD0014FD37 /* Target.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Target.m; sourceTree = "<group>"; };
+		1459B309196AAFCD0014FD37 /* TargetWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TargetWrapper.h; sourceTree = "<group>"; };
+		1459B30A196AAFCD0014FD37 /* TargetWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TargetWrapper.m; sourceTree = "<group>"; };
+		1459B30F196AC18B0014FD37 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		1459B310196AC18B0014FD37 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		1459B313196AC1C80014FD37 /* BankAccount.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BankAccount.h; sourceTree = "<group>"; };
+		1459B314196AC1C80014FD37 /* BankAccount.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BankAccount.m; sourceTree = "<group>"; };
+		1459B317196AC3FB0014FD37 /* PlayList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayList.h; sourceTree = "<group>"; };
+		1459B318196AC3FB0014FD37 /* PlayList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayList.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +95,15 @@
 			isa = PBXGroup;
 			children = (
 				1459B2F8196AAE390014FD37 /* main.m */,
+				1459B312196AC1930014FD37 /* demo2 */,
+				1459B303196AAFCD0014FD37 /* Fool.h */,
+				1459B304196AAFCD0014FD37 /* Fool.m */,
+				1459B305196AAFCD0014FD37 /* Observer.h */,
+				1459B306196AAFCD0014FD37 /* Observer.m */,
+				1459B307196AAFCD0014FD37 /* Target.h */,
+				1459B308196AAFCD0014FD37 /* Target.m */,
+				1459B309196AAFCD0014FD37 /* TargetWrapper.h */,
+				1459B30A196AAFCD0014FD37 /* TargetWrapper.m */,
 				1459B2FC196AAE390014FD37 /* KVOTest.1 */,
 				1459B2FA196AAE390014FD37 /* Supporting Files */,
 			);
@@ -86,6 +116,19 @@
 				1459B2FB196AAE390014FD37 /* KVOTest-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1459B312196AC1930014FD37 /* demo2 */ = {
+			isa = PBXGroup;
+			children = (
+				1459B317196AC3FB0014FD37 /* PlayList.h */,
+				1459B318196AC3FB0014FD37 /* PlayList.m */,
+				1459B313196AC1C80014FD37 /* BankAccount.h */,
+				1459B314196AC1C80014FD37 /* BankAccount.m */,
+				1459B30F196AC18B0014FD37 /* Person.h */,
+				1459B310196AC18B0014FD37 /* Person.m */,
+			);
+			name = demo2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,7 +182,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1459B315196AC1C80014FD37 /* BankAccount.m in Sources */,
+				1459B311196AC18B0014FD37 /* Person.m in Sources */,
+				1459B30C196AAFCD0014FD37 /* Observer.m in Sources */,
+				1459B30E196AAFCD0014FD37 /* TargetWrapper.m in Sources */,
 				1459B2F9196AAE390014FD37 /* main.m in Sources */,
+				1459B30D196AAFCD0014FD37 /* Target.m in Sources */,
+				1459B30B196AAFCD0014FD37 /* Fool.m in Sources */,
+				1459B319196AC3FB0014FD37 /* PlayList.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,6 +301,7 @@
 				1459B302196AAE390014FD37 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
